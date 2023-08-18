@@ -1,4 +1,4 @@
-<h1 align="center">ChatBot funcional 🔢
+<h1 align="center">ChatBot IA 🤖
 </h1>
 
 <p align="center">“Push yourself, because no one else is going to do it for you.”!</blockquote>
@@ -8,7 +8,7 @@
 This application made in Vanilla JavaScript was thought to be a very easy usefull Chat bot with IA, 
 to show some of my skills in Programming logic and learn more about JavaScript.
 
-<b>To this project works, you need to put your premium openai api key inside the js file</b>
+<b>To this project works, you need to put your premium openai api key inside the js file.</b>
 
 </h3>
   
