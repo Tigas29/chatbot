@@ -43,7 +43,7 @@ $ git clone https://github.com/Tigas29/chatbot.git
 ## :information_source:[Or click here!](https://chatbot-tigas29.vercel.app/)
 
 ## Result
-
-<img src="https://github.com/Tigas29/IMC-CALCULATOR/blob/main/assetsReadme/result.png?raw=true" width="800">
+  
+<img align=center src="https://github.com/Tigas29/chatbot/blob/main/assets/file.png" width="400">
 
 Made with ♥ by Tiago Santos :wave: [Get in touch!](https://www.linkedin.com/in/tiagosantos-dev/)
